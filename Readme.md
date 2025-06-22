@@ -12,10 +12,13 @@ Project Harp is a backdoor script for Roblox that allows remote control of the s
 
 ## Installation
 1. Insert the Project Harp script into your Roblox game (ServerScriptService or StarterPlayerScripts).
-2. Configure RemoteEvents and RemoteFunctions if needed.
-3. Launch the game and use backdoor via the GUI or console.
+2. Launch the game and use backdoor via the GUI or console or Executors.
 
 ## Warning
 - Do not use this backdoor on servers you do not own or have explicit permission to test on.
 - Using such scripts can result in your Roblox account being banned.
 - The author is not responsible for any consequences caused by misuse.
+
+## Scripts of backdoor
+- scanner.lua scanner and executor
+- backdoor.lua for ServerScriptService (enable loadstring in Options of that folder)
